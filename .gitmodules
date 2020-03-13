@@ -1,0 +1,6 @@
+[submodule "Desafio-API"]
+	path = Desafio-API
+	url = https://github.com/LauanGuermandi/Desafio-API
+[submodule "Desafio-App"]
+	path = Desafio-App
+	url = https://github.com/LauanGuermandi/Desafio-App
